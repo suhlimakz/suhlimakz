@@ -35,7 +35,7 @@ I enjoy transforming manual or complex processes into solutions that are more **
 
 <td width="33%" align="center">
 
-<a href="#">
+<a href="https://github.com/suhlimakz/invoice_verifier">
 <img src="assets/cards/nfe_validator_card_en.png" width="100%" alt="NF-e Validation Automation">
 </a>
 
@@ -44,7 +44,7 @@ I enjoy transforming manual or complex processes into solutions that are more **
 <td width="33%" align="center">
 
 <a href="#">
-<img src="assets/cards/nfe_validator_card_en.png" width="100%" alt="Data Transformation">
+<img src="assets/cards/data_transformation_card_en.png" width="100%" alt="Data Transformation">
 </a>
 
 </td>
