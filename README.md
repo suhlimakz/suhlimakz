@@ -38,7 +38,7 @@ Gosto de transformar processos manuais ou complexos em soluções mais **estrutu
 <tr>
 
 <td width="33%" align="center">
-<a href="#">
+<a href="https://github.com/suhlimakz/invoice_verifier">
 <img src="assets/cards/nfe_validator_card_pt.png" width="100%" alt="Automação de Validação de NF-e">
 </a>
 </td>
